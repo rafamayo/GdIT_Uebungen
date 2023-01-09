@@ -1,2 +1,2 @@
-# GdIT_Uebungen
+# GdIT-Übungen
 Übungen zur Lehrveranstaltung "Grundlagen der Informationstechnologie"
